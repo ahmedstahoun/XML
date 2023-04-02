@@ -1,0 +1,231 @@
+<Library location="Egypt" description="Library" librarian="Mr.Khaled">
+   
+    <book title="Science Book" ISBN="9879">
+        <author>
+            <name>
+                <fname>Ahmed</fname>
+                <lname>Tahoun</lname>
+            </name>
+        </author>
+        <preface>
+            Science book preface
+        </preface>
+        <parts>
+            <part no='1' title="Genetics">
+                <chapters>
+                    <chapter title="Chapter 1">
+                        <summary>chapter 1 summary</summary>
+                        <sections>
+                            <section title="Section 1">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                                
+                            </section>
+                            <section title="Section 2">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                                
+                            </section>
+                        </sections>
+                    </chapter>
+
+                    <chapter title="Chapter 2">
+                        <summary>chapter 2 summary</summary>
+                        <sections>
+                              <section title="Section 1">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                              
+                            </section>
+                            <section title="Section 2">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                               
+                            </section>
+                        </sections>
+                    </chapter>
+
+                </chapters>
+
+            </part>
+            
+             <part no='2' title="Animals">
+                <chapters>
+                    <chapter title="Chapter 1">
+                        <summary>chapter 1 summary</summary>
+                        <sections>
+                            <section title="Section 1">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                                
+                            </section>
+                            <section title="Section 2">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                                
+                            </section>
+                        </sections>
+                    </chapter>
+
+                    <chapter title="Chapter 2">
+                        <summary>chapter 2 summary</summary>
+                        <sections>
+                              <section title="Section 1">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                
+                              
+                            </section>
+                            <section title="Section 2">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                               
+                               
+                            </section>
+                        </sections>
+                    </chapter>
+
+                </chapters>
+
+            </part>
+
+        </parts>
+    </book>
+
+
+
+    <book title="Maths Book" ISBN="5432">
+        <author>
+            <name>
+                <fname>Khaled</fname>
+                <lname>ALi</lname>
+            </name>
+        </author>
+        <preface>
+            Math book Preface
+        </preface>
+        <parts>
+           <part no='1' title="Algebra">
+                <chapters>
+                    <chapter title="Chapter 1">
+                        <summary>chapter 1 summary</summary>
+                        <sections>
+                            <section title="Section 1">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                                
+                            </section>
+                            <section title="Section 2">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                                
+                            </section>
+                        </sections>
+                    </chapter>
+
+                    <chapter title="Chapter 2">
+                        <summary>chapter 2 summary</summary>
+                        <sections>
+                              <section title="Section 1">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                              
+                            </section>
+                            <section title="Section 2">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                               
+                            </section>
+                        </sections>
+                    </chapter>
+
+                </chapters>
+
+            </part>
+            
+             <part no='2' title="Geometry">
+                <chapters>
+                    <chapter title="Chapter 1">
+                        <summary>chapter 1 summary</summary>
+                        <sections>
+                            <section title="Section 1">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                                
+                            </section>
+                            <section title="Section 2">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                <p>paragraph 4</p>
+                                <p>paragraph 5</p>
+                                
+                            </section>
+                        </sections>
+                    </chapter>
+
+                    <chapter title="Chapter 2">
+                        <summary>chapter 2 summary</summary>
+                        <sections>
+                              <section title="Section 1">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                                
+                              
+                            </section>
+                            <section title="Section 2">
+                                <p>paragraph 1</p>
+                                <p>paragraph 2</p>
+                                <p>paragraph 3</p>
+                               
+                               
+                            </section>
+                        </sections>
+                    </chapter>
+
+                </chapters>
+
+            </part>
+
+        </parts>
+    </book>
+
+
+
+</Library>
