@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<employees>
+	<employee>
+		<name>Tahoun</name>
+		<phones>
+			<phone type="home">031123468</phone>
+			<phone type="work">014569791</phone>
+			<phone type="mobile">0125675974</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>moharam bek,</street>
+				<buildingNumber>66,</buildingNumber>
+				<region>moharram bek,</region>
+				<city>Alexandria,</city>
+				<country>Egypt.</country>
+			</address>
+			
+		</addresses>
+		<email>tahoun@gmail.com</email>
+	</employee>
+	<employee>
+		<name>Ali</name>
+		<phones>
+			<phone type="home">0349675421</phone>
+			<phone type="work">01124369874</phone>
+			<phone type="mobile">0105679511</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>abu bakr,</street>
+				<buildingNumber>5,</buildingNumber>
+				<region>5th settelement,</region>
+				<city>New Cairo,</city>
+				<country>Egypt.</country>
+			</address>
+		</addresses>
+		<email>ali@gmail.com</email>
+	</employee>
+</employees>
